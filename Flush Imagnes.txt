@@ -96,25 +96,3 @@ indycar_subscrition_mexico_wp0_promogate_portrait: "http://clarovideocdn6.clarov
 indycar_subscrition_mexico_wp0_telmexmexicogate_landscape: "http://clarovideocdn4.clarovideo.net/pregeneracion/cms/apa/uat_52f50ed0e4b053d3a195affb/indycar_subscrition_mexico_wp0_telmexmexicogate_landscape.png?1595016214",
 indycar_subscrition_mexico_wp0_telmexmexicogate_portrait: "http://clarovideocdn3.clarovideo.net/pregeneracion/cms/apa/uat_52f50ed0e4b053d3a195affb/indycar_subscrition_mexico_wp0_telmexmexicogate_portrait.jpg?1595358570",
 
-2a6ec299f2f6ea0a821f00ded282f77a
-
-HBO_susc_mexico_wp0: "http://clarovideocdn4.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/HBO_susc_mexico_wp0.png?1595283630"
-hbo_susc_mexico_wp0: "http://clarovideocdn4.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/hbo_susc_mexico_wp0.png?1595283478"
-EDYE_susc_mexico_wp0: "http://clarovideocdn5.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/EDYE_susc_mexico_wp0.png?1595360283",
-edye_susc_mexico_wp0: "http://clarovideocdn5.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/edye_susc_mexico_wp0.png?1595284097",
-fox_susc_mexico_wp0: "http://clarovideocdn4.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/fox_susc_mexico_wp0.png?1590594825"
-FOX_susc_mexico_wp0: "http://clarovideocdn4.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/FOX_susc_mexico_wp0.png?1595360603",
-fox_V3_susc_mexico_wp0: "http://clarovideocdn7.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/fox_V3_susc_mexico_wp0.png?1595360513",
-FOX_V3_susc_mexico_wp0: "http://clarovideocdn7.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/FOX_V3_susc_mexico_wp0.png?1595360712",
-HBO_susc_mexico_wp0: "http://clarovideocdn4.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/HBO_susc_mexico_wp0.png?1595283630"
-hbo_susc_mexico_wp0: "http://clarovideocdn4.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/hbo_susc_mexico_wp0.png?1595283478"
-indycar_susc_mexico_wp0: "http://clarovideocdn8.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/indycar_susc_mexico_wp0.png?1595284339",
-INDYCAR_susc_mexico_wp0: "http://clarovideocdn8.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/INDYCAR_susc_mexico_wp0.png?1595285394",
-NOGGIN_susc_mexico_wp0: "http://clarovideocdn7.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/NOGGIN_susc_mexico_wp0.png?1595374560",
-noggin_susc_mexico_wp0: "http://clarovideocdn7.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/noggin_susc_mexico_wp0.png?1595374715",
-paramount_susc_mexico_wp0: "http://clarovideocdn0.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/paramount_susc_mexico_wp0.png?1595361245",
-PARAMOUNT_susc_mexico_wp0: "http://clarovideocdn0.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/PARAMOUNT_susc_mexico_wp0.png?1595361160",
-PICARDIA_susc_mexico_wp0: "http://clarovideocdn9.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/PICARDIA_susc_mexico_wp0.png?1595283731",
-picardia_susc_mexico_wp0: "http://clarovideocdn9.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/picardia_susc_mexico_wp0.png?1595283821",
-STINGRAY_KARAOKE_susc_mexico_wp0: "http://clarovideocdn7.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/STINGRAY_KARAOKE_susc_mexico_wp0.png?1595361440",
-STINGRAY_QELLO_susc_mexico_wp0: "http://clarovideocdn5.clarovideo.net/pregeneracion/cms/apa/uat_2a6ec299f2f6ea0a821f00ded282f77a/STINGRAY_QELLO_susc_mexico_wp0.png?1595361671",
